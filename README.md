@@ -2,5 +2,5 @@
 Python and SQLite based mini project for student record management
 
 ## Sample Output
-![Program Output](output1.png)
-![Program Output](output2.png)
+![Program Output](Output-1.png)
+![Program Output](Output-2.png)
